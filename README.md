@@ -1,6 +1,5 @@
 # Data-and-Programming-in-Python
-Couse description: introduction to Python with a focus on data analysis. 
+Course description for HW assignments: Introduction to Data and Programming in Python at the Harris School of Public Policy with a focus on data analysis. 
+All other projects were done independently. 
 
-NOTE: This was my first course in python, please see the "Big Data" and "Policy Lab" repos for my more advanced projects.
-
-*All work is my own done at the Harris School of Public Policy.
+*All work is my own. 
